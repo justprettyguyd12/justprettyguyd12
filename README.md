@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danila
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning ASP.NET and some other stuff in C#
+- 🌱 I’m currently learning ASP.NET and some frontend stuff like SCSS, TS & React
 - ✉️ danshalutin@gmail.com
 - tg: https://t.me/danila_shalyutin
