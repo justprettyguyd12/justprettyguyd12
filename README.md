@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Danila
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning ASP.NET and some frontend stuff like SCSS, TS & React
+- Worked as fullstack web developer
+- Now working as RPA engineer
+- I'm interested in AI and ML
 - ✉️ danshalutin@gmail.com
 - tg: https://t.me/danila_shalyutin
